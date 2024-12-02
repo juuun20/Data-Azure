@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "505107877321",
+    "project_id": "dataazure-4ad63",
+    "storage_bucket": "dataazure-4ad63.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505107877321:android:15ec99fdf87cb163ce6c18",
+        "android_client_info": {
+          "package_name": "com.petconnect.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKYYxBVnkOQsKt7uyjT6ZNsB-tjmGOagE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505107877321:android:644447dc7cdb088ece6c18",
+        "android_client_info": {
+          "package_name": "con.petconnect.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKYYxBVnkOQsKt7uyjT6ZNsB-tjmGOagE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
